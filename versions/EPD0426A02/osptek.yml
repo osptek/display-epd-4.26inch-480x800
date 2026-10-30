@@ -1,0 +1,10 @@
+id: EPD0426A02
+category: displays
+size: "4.26"
+panel: epd
+resolution: 480x800
+interface: [spi]
+driver: SSD1677
+touch: null
+outline: 62.37 x 105.33 x 0.85 mm
+active_area: 55.68 x 92.8 mm
